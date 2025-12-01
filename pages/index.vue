@@ -36,7 +36,7 @@
             <!-- Stats rapides ES -->
             <div class="grid grid-cols-3 gap-6 pt-6">
               <div class="text-center bg-white/80 backdrop-blur-sm p-4 rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-3 hover:scale-105">
-                <div class="text-4xl font-bold gradient-text">+25%</div>
+                <div class="text-4xl font-bold gradient-text">25%</div>
                 <div class="text-sm font-medium text-gray-600 mt-2">Observance</div>
               </div>
               <div class="text-center bg-white/80 backdrop-blur-sm p-4 rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-3 hover:scale-105">
@@ -314,7 +314,7 @@
                   <div>
                     <div class="flex justify-between mb-3">
                       <span class="text-base font-medium text-gray-600">Réduction symptômes</span>
-                      <span class="text-base font-bold text-purple-600">+40%</span>
+                      <span class="text-base font-bold text-purple-600">40%</span>
                     </div>
                     <div class="h-4 bg-gray-100 rounded-full overflow-hidden shadow-inner">
                       <div class="h-full bg-gradient-to-r from-purple-400 to-pink-400 rounded-full shadow-sm" style="width: 40%"></div>

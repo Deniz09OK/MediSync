@@ -649,7 +649,7 @@
                   <div>
                     <div class="flex justify-between mb-3">
                       <span class="text-sm font-semibold text-gray-700">Amélioration symptômes</span>
-                      <span class="text-sm font-bold text-purple-600">+40%</span>
+                      <span class="text-sm font-bold text-purple-600">40%</span>
                     </div>
                     <div class="h-4 bg-white rounded-full overflow-hidden shadow-inner">
                       <div class="h-full bg-gradient-to-r from-purple-400 to-pink-400 rounded-full transition-all duration-1000" style="width: 40%"></div>
