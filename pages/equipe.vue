@@ -20,7 +20,7 @@
       <div class="container mx-auto px-4 lg:px-8 relative z-10">
         <div class="max-w-4xl mx-auto text-center animate-fade-in-up">
           <span class="inline-block px-6 py-3 bg-white/80 backdrop-blur-sm shadow-lg text-transparent bg-clip-text bg-gradient-to-r from-sky-600 to-emerald-600 rounded-full text-sm font-bold mb-8 border-2 border-sky-100">
-            Les créateurs de CareSync
+            Les créateurs de MediSync
           </span>
           
           <h1 class="text-5xl lg:text-7xl font-bold mb-8 leading-tight">
@@ -52,7 +52,7 @@
               L'équipe <span class="gradient-text">actuelle</span>
             </h2>
             <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-              Trois étudiants d'Epitech Nancy qui ont imaginé CareSync et portent le projet vers sa réalisation
+              Trois étudiants d'Epitech Nancy qui ont imaginé MediSync et portent le projet vers sa réalisation
             </p>
           </div>
 
@@ -167,7 +167,7 @@
                 Postes <span class="gradient-text">à pourvoir</span>
               </h2>
               <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                Nous recherchons des talents passionnés pour compléter notre équipe et construire l'avenir de CareSync
+                Nous recherchons des talents passionnés pour compléter notre équipe et construire l'avenir de MediSync
               </p>
             </div>
 
@@ -226,7 +226,7 @@
                 </div>
                 <h3 class="text-xl font-bold text-gray-900 mb-3 transition-colors duration-300 hover:text-purple-600">Spécialiste IA</h3>
                 <p class="text-gray-600 text-sm leading-relaxed">
-                  Expert en machine learning et NLP pour développer l'intelligence artificielle au cœur de CareSync.
+                  Expert en machine learning et NLP pour développer l'intelligence artificielle au cœur de MediSync.
                 </p>
               </div>
 
@@ -347,7 +347,7 @@
           </h2>
           
           <p class="text-xl lg:text-2xl mb-12 text-gray-700 leading-relaxed">
-            CareSync cherche <strong class="text-sky-600">des talents motivés</strong> pour transformer ensemble le suivi des maladies chroniques. Si vous êtes passionné par la e-santé et l'innovation, <strong class="text-emerald-600">contactez-nous !</strong>
+            MediSync cherche <strong class="text-sky-600">des talents motivés</strong> pour transformer ensemble le suivi des maladies chroniques. Si vous êtes passionné par la e-santé et l'innovation, <strong class="text-emerald-600">contactez-nous !</strong>
           </p>
 
           <div class="flex flex-col sm:flex-row justify-center gap-4">
@@ -362,7 +362,7 @@
             </NuxtLink>
 
             <a
-              href="https://github.com/Deniz09OK/CareSync"
+              href="https://github.com/Deniz09OK/MediSync"
               target="_blank"
               rel="noopener noreferrer"
               class="group inline-flex items-center space-x-3 px-10 py-5 bg-white border-2 border-gray-300 text-gray-900 font-bold text-lg rounded-2xl hover:border-sky-500 hover:text-sky-600 hover:scale-105 transition-all duration-300 shadow-xl"
@@ -384,11 +384,11 @@ import michelImg from '~/assets/Image/michel.jpg'
 import denizImg from '~/assets/Image/deniz.jpg'
 
 useHead({
-  title: 'Notre Équipe - CareSync',
+  title: 'Notre Équipe - MediSync',
   meta: [
     { 
       name: 'description', 
-      content: 'Découvrez l\'équipe passionnée derrière CareSync : des développeurs d\'Epitech déterminés à révolutionner la e-santé avec l\'intelligence artificielle.' 
+      content: 'Découvrez l\'équipe passionnée derrière MediSync : des développeurs d\'Epitech déterminés à révolutionner la e-santé avec l\'intelligence artificielle.' 
     }
   ]
 })

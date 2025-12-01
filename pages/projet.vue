@@ -24,7 +24,7 @@
           </span>
           
           <h1 class="text-5xl lg:text-7xl font-bold mb-8 leading-tight">
-            CareSync : 
+            MediSync : 
             <span class="gradient-text block mt-2">Réinventer</span>
             le suivi médical
           </h1>
@@ -67,7 +67,7 @@
               La <span class="gradient-text">Genèse</span> du Projet
             </h2>
             <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-              CareSync est né de la fusion de deux concepts complémentaires, créant une solution unique et complète
+              MediSync est né de la fusion de deux concepts complémentaires, créant une solution unique et complète
             </p>
           </div>
           
@@ -92,7 +92,7 @@
               </div>
             </div>
 
-            <!-- CareSync Original  -->
+            <!-- MediSync Original  -->
             <div class="group relative bg-gradient-to-br from-emerald-50 to-emerald-100 p-10 rounded-3xl border-2 border-emerald-200 hover:border-emerald-400 shadow-xl hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
               <div class="absolute top-4 right-4 opacity-10 group-hover:opacity-20 transition-opacity">
                 <svg class="w-32 h-32 text-emerald-500" fill="currentColor" viewBox="0 0 24 24">
@@ -105,7 +105,7 @@
                     <path fill-rule="evenodd" d="M7.5 6a4.5 4.5 0 119 0 4.5 4.5 0 01-9 0zM3.751 20.105a8.25 8.25 0 0116.498 0 .75.75 0 01-.437.695A18.683 18.683 0 0112 22.5c-2.786 0-5.433-.608-7.812-1.7a.75.75 0 01-.437-.695z" clip-rule="evenodd" />
                   </svg>
                 </div>
-                <h3 class="text-2xl font-bold mb-4 text-gray-800 group-hover:text-emerald-600 transition-colors">CareSync Originel</h3>
+                <h3 class="text-2xl font-bold mb-4 text-gray-800 group-hover:text-emerald-600 transition-colors">CareSync</h3>
                 <p class="text-lg text-gray-700 leading-relaxed">
                   Application dédiée au <strong>suivi qualitatif</strong> de l'expérience patient et de son vécu quotidien.
                 </p>
@@ -127,7 +127,7 @@
             
             <div class="inline-block mb-6 px-8 py-4 bg-gradient-to-r from-sky-50 to-emerald-50 rounded-2xl border-2 border-sky-200">
               <p class="text-4xl font-bold gradient-text">
-                = CareSync
+                = MediSync
               </p>
             </div>
             
@@ -700,7 +700,7 @@
       <div class="container mx-auto px-4 lg:px-8 text-center relative z-10">
         <div class="max-w-4xl mx-auto">
           <h2 class="text-4xl lg:text-5xl font-bold mb-8 leading-tight text-gray-900">
-            Rejoignez l'aventure <span class="block mt-2 gradient-text">CareSync</span>
+            Rejoignez l'aventure <span class="block mt-2 gradient-text">MediSync</span>
           </h2>
           
           <p class="text-xl lg:text-2xl mb-12 text-gray-700 leading-relaxed max-w-3xl mx-auto">
@@ -729,7 +729,7 @@
             </NuxtLink>
 
             <a
-              href="https://github.com/Deniz09OK/CareSync"
+              href="https://github.com/Deniz09OK/MediSync"
               target="_blank"
               rel="noopener noreferrer"
               class="group inline-flex items-center space-x-3 px-10 py-5 bg-white border-2 border-gray-300 text-gray-900 font-bold text-lg rounded-2xl hover:bg-sky-100/40 hover:scale-105 transition-all duration-300 shadow-xl"
@@ -748,11 +748,11 @@
 
 <script setup>
 useHead({
-  title: 'Le Projet - CareSync',
+  title: 'Le Projet - MediSync',
   meta: [
     { 
       name: 'description', 
-      content: 'Découvrez la vision complète de CareSync : notre mission, notre solution innovante et notre stratégie pour transformer le suivi des maladies chroniques grâce à l\'IA.' 
+      content: 'Découvrez la vision complète de MediSync : notre mission, notre solution innovante et notre stratégie pour transformer le suivi des maladies chroniques grâce à l\'IA.' 
     }
   ]
 })

@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- Hero Section E -->
-    <section class="relative overflow-hidden section-padding bg-gradient-to-br from-caresync-sky-50 via-white to-caresync-emerald-50">
+    <section class="relative overflow-hidden section-padding bg-gradient-to-br from-MediSync-sky-50 via-white to-MediSync-emerald-50">
       <!-- Formes décoratives animées -->
       <div class="absolute inset-0 overflow-hidden pointer-events-none">
         <div class="absolute top-20 left-10 w-72 h-72 bg-sky-200/30 rounded-full blur-3xl animate-pulse-soft"></div>
@@ -67,14 +67,14 @@
           <div class="relative lg:h-[600px] flex items-center justify-center animate-fade-in">
             <div class="relative w-full max-w-lg">
               <!-- Cercle décoratif animé -->
-              <div class="absolute inset-0 bg-gradient-to-br from-caresync-sky-300/30 to-caresync-emerald-300/30 rounded-full blur-3xl animate-pulse-soft"></div>
+              <div class="absolute inset-0 bg-gradient-to-br from-MediSync-sky-300/30 to-MediSync-emerald-300/30 rounded-full blur-3xl animate-pulse-soft"></div>
               
               <!-- Carte mockup -->
               <div class="relative space-y-6">
                 <!-- App Patient -->
                 <div class="card-glass p-8 rounded-3xl transform rotate-3 hover:rotate-0 transition-all duration-300 hover:shadow-2xl border-2 border-white/50">
                   <div class="flex items-center space-x-4 mb-6">
-                    <div class="w-14 h-14 bg-gradient-to-br from-caresync-sky-400 to-caresync-emerald-400 rounded-2xl flex items-center justify-center shadow-lg">
+                    <div class="w-14 h-14 bg-gradient-to-br from-MediSync-sky-400 to-MediSync-emerald-400 rounded-2xl flex items-center justify-center shadow-lg">
                       <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z" />
                       </svg>
@@ -85,16 +85,16 @@
                     </div>
                   </div>
                   <div class="space-y-3">
-                    <div class="h-3 bg-gradient-to-r from-caresync-sky-200 to-caresync-emerald-200 rounded-full shadow-sm"></div>
-                    <div class="h-3 bg-gradient-to-r from-caresync-sky-200 to-caresync-emerald-200 rounded-full w-3/4 shadow-sm"></div>
-                    <div class="h-3 bg-gradient-to-r from-caresync-sky-200 to-caresync-emerald-200 rounded-full w-1/2 shadow-sm"></div>
+                    <div class="h-3 bg-gradient-to-r from-MediSync-sky-200 to-MediSync-emerald-200 rounded-full shadow-sm"></div>
+                    <div class="h-3 bg-gradient-to-r from-MediSync-sky-200 to-MediSync-emerald-200 rounded-full w-3/4 shadow-sm"></div>
+                    <div class="h-3 bg-gradient-to-r from-MediSync-sky-200 to-MediSync-emerald-200 rounded-full w-1/2 shadow-sm"></div>
                   </div>
                 </div>
 
                 <!-- Dashboard Médecin -->
                 <div class="card-glass p-8 rounded-3xl transform -rotate-3 hover:rotate-0 transition-all duration-300 hover:shadow-2xl border-2 border-white/50">
                   <div class="flex items-center space-x-4 mb-6">
-                    <div class="w-14 h-14 bg-gradient-to-br from-caresync-emerald-400 to-caresync-sky-400 rounded-2xl flex items-center justify-center shadow-lg">
+                    <div class="w-14 h-14 bg-gradient-to-br from-MediSync-emerald-400 to-MediSync-sky-400 rounded-2xl flex items-center justify-center shadow-lg">
                       <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
                       </svg>
@@ -105,9 +105,9 @@
                     </div>
                   </div>
                   <div class="grid grid-cols-3 gap-3">
-                    <div class="h-20 bg-gradient-to-br from-caresync-emerald-200 to-caresync-sky-200 rounded-2xl shadow-sm"></div>
-                    <div class="h-20 bg-gradient-to-br from-caresync-sky-200 to-caresync-emerald-200 rounded-2xl shadow-sm"></div>
-                    <div class="h-20 bg-gradient-to-br from-caresync-emerald-200 to-caresync-sky-200 rounded-2xl shadow-sm"></div>
+                    <div class="h-20 bg-gradient-to-br from-MediSync-emerald-200 to-MediSync-sky-200 rounded-2xl shadow-sm"></div>
+                    <div class="h-20 bg-gradient-to-br from-MediSync-sky-200 to-MediSync-emerald-200 rounded-2xl shadow-sm"></div>
+                    <div class="h-20 bg-gradient-to-br from-MediSync-emerald-200 to-MediSync-sky-200 rounded-2xl shadow-sm"></div>
                   </div>
                 </div>
               </div>
@@ -168,14 +168,14 @@
     </section>
 
     <!-- Notre Solution E -->
-    <section class="section-padding bg-gradient-to-br from-caresync-sky-50 to-caresync-emerald-50">
+    <section class="section-padding bg-gradient-to-br from-MediSync-sky-50 to-MediSync-emerald-50">
       <div class="container mx-auto px-4 lg:px-8">
         <div class="text-center max-w-3xl mx-auto mb-20">
           <span class="inline-block px-4 py-2 bg-gradient-to-r from-sky-100 to-emerald-100 text-sky-700 rounded-full text-sm font-semibold mb-4">
             Notre solution innovante
           </span>
           <h2 class="text-4xl md:text-5xl font-bold mb-6">
-            CareSync : <span class="gradient-text">la solution</span>
+            MediSync : <span class="gradient-text">la solution</span>
           </h2>
           <p class="text-xl text-gray-600 leading-relaxed">
             Une plateforme complète qui connecte patients et médecins pour un suivi optimal
@@ -406,7 +406,7 @@
           </NuxtLink>
           
           <a
-            href="https://github.com/Deniz09OK/CareSync"
+            href="https://github.com/Deniz09OK/MediSync"
             target="_blank"
             rel="noopener noreferrer"
             class="group px-10 py-5 bg-white/90 backdrop-blur-sm border-2 border-gray-800 text-gray-800 text-lg font-bold rounded-2xl hover:bg-gray-800 hover:text-white hover:scale-105 transition-all duration-300 inline-flex items-center space-x-3 shadow-xl"
@@ -424,11 +424,11 @@
 
 <script setup>
 useHead({
-  title: 'CareSync - Plateforme de Santé Connectée',
+  title: 'MediSync - Plateforme de Santé Connectée',
   meta: [
     { 
       name: 'description', 
-      content: 'CareSync relie observance médicamenteuse et qualité de vie pour une prise en charge personnalisée. Projet de fin d\'études Epitech.' 
+      content: 'MediSync relie observance médicamenteuse et qualité de vie pour une prise en charge personnalisée. Projet de fin d\'études Epitech.' 
     }
   ]
 })

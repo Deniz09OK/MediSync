@@ -568,7 +568,7 @@
           <!-- En-tête section -->
           <div class="text-center mb-20">
             <span class="inline-block px-4 py-2 bg-gradient-to-r from-purple-100 to-pink-100 text-purple-700 rounded-full text-sm font-semibold mb-4">
-              Le cœur de CareSync
+              Le cœur de MediSync
             </span>
             <h2 class="text-4xl lg:text-5xl font-bold mb-6">
               Intelligence <span class="gradient-text">Artificielle</span>
@@ -889,7 +889,7 @@
       <div class="container mx-auto px-4 lg:px-8 text-center relative z-10">
         <div class="max-w-4xl mx-auto">
           <h2 class="text-4xl lg:text-5xl font-bold mb-8 leading-tight text-gray-900">
-            Prêt à découvrir <span class="gradient-text">CareSync</span> ?
+            Prêt à découvrir <span class="gradient-text">MediSync</span> ?
           </h2>
           
           <p class="text-xl lg:text-2xl mb-12 text-gray-700 leading-relaxed">
@@ -926,11 +926,11 @@
 
 <script setup>
 useHead({
-  title: 'Fonctionnalités - CareSync',
+  title: 'Fonctionnalités - MediSync',
   meta: [
     { 
       name: 'description', 
-      content: 'Découvrez toutes les fonctionnalités de CareSync : application patient, dashboard médecin, intelligence artificielle et sécurité maximale pour révolutionner le suivi des maladies chroniques.' 
+      content: 'Découvrez toutes les fonctionnalités de MediSync : application patient, dashboard médecin, intelligence artificielle et sécurité maximale pour révolutionner le suivi des maladies chroniques.' 
     }
   ]
 })

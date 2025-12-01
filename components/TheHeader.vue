@@ -11,7 +11,7 @@
           </div>
           <div class="hidden sm:block">
             <span class="text-2xl font-bold bg-gradient-to-r from-sky-600 to-emerald-600 bg-clip-text text-transparent">
-              CareSync
+              MediSync
             </span>
             <p class="text-xs text-gray-500 -mt-1">Votre santé, notre priorité</p>
           </div>

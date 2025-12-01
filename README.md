@@ -1,6 +1,6 @@
-# CareSync
+# MediSync
 
-CareSync est une plateforme de santé connectée qui relie l'observance médicamenteuse au vécu réel du patient, afin d'offrir aux médecins une prise en charge personnalisée basée sur des données objectives du quotidien.
+MediSync est une plateforme de santé connectée qui relie l'observance médicamenteuse au vécu réel du patient, afin d'offrir aux médecins une prise en charge personnalisée basée sur des données objectives du quotidien.
 
 ## Fonctionnalités principales
 
@@ -45,8 +45,8 @@ Le projet cible d'abord la gastro-entérologie (MICI, SII) pour maximiser l'impa
 ## Installation rapide
 
 ```bash
-git clone https://github.com/Deniz09OK/CareSync
-cd CareSync
+git clone https://github.com/Deniz09OK/MediSync
+cd MediSync
 ```
 
 ## Installation & Démarrage

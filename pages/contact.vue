@@ -22,7 +22,7 @@
           
           <h1 class="text-5xl lg:text-7xl font-bold mb-8 leading-tight">
             Contactez
-            <span class="gradient-text block mt-2 animate-fade-in" style="animation-delay: 0.2s;">l'équipe CareSync</span>
+            <span class="gradient-text block mt-2 animate-fade-in" style="animation-delay: 0.2s;">l'équipe MediSync</span>
           </h1>
           
           <p class="text-xl lg:text-2xl text-gray-600 leading-relaxed mb-12 animate-fade-in" style="animation-delay: 0.4s;">
@@ -247,7 +247,7 @@
       <div class="container mx-auto px-4 lg:px-8 text-center relative z-10">
         <div class="max-w-4xl mx-auto">
           <h2 class="text-4xl lg:text-5xl font-bold mb-8 leading-tight text-gray-900">
-            <span class="block">Envie d'en savoir plus sur <span class="gradient-text whitespace-nowrap">CareSync ?</span></span>
+            <span class="block">Envie d'en savoir plus sur <span class="gradient-text whitespace-nowrap">MediSync ?</span></span>
           </h2>
           
           <p class="text-xl lg:text-2xl mb-12 text-gray-700 leading-relaxed">
@@ -283,11 +283,11 @@
 
 <script setup>
 useHead({
-  title: 'Contact - CareSync',
+  title: 'Contact - MediSync',
   meta: [
     { 
       name: 'description', 
-      content: 'Contactez l\'équipe CareSync pour toute question sur notre projet de plateforme de santé connectée. Claire-Estelle Zobo, Michel Banckaert et Deniz OK sont à votre écoute.' 
+      content: 'Contactez l\'équipe MediSync pour toute question sur notre projet de plateforme de santé connectée. Claire-Estelle Zobo, Michel Banckaert et Deniz OK sont à votre écoute.' 
     }
   ]
 })

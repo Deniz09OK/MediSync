@@ -4,10 +4,10 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
 
   app: {
-    baseURL: '/CareSync/', 
+    baseURL: '/MediSync/', 
     buildAssetsDir: 'assets',
     head: {
-      title: 'CareSync - Plateforme de Santé Connectée',
+      title: 'MediSync - Plateforme de Santé Connectée',
       htmlAttrs: {
         lang: 'fr'
       },
@@ -16,14 +16,14 @@ export default defineNuxtConfig({
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
         { 
           name: 'description', 
-          content: 'CareSync relie l\'observance médicamenteuse et la qualité de vie pour une prise en charge personnalisée des maladies chroniques.' 
+          content: 'MediSync relie l\'observance médicamenteuse et la qualité de vie pour une prise en charge personnalisée des maladies chroniques.' 
         },
         { name: 'format-detection', content: 'telephone=no' },
-        { property: 'og:title', content: 'CareSync - Plateforme de Santé Connectée' },
+        { property: 'og:title', content: 'MediSync - Plateforme de Santé Connectée' },
         { property: 'og:description', content: 'La première plateforme qui connecte votre traitement à votre bien-être.' },
         { property: 'og:type', content: 'website' },
         { name: 'twitter:card', content: 'summary_large_image' },
-        { name: 'twitter:title', content: 'CareSync - Plateforme de Santé Connectée' },
+        { name: 'twitter:title', content: 'MediSync - Plateforme de Santé Connectée' },
       ],
       link: [
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }

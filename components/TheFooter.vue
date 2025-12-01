@@ -11,7 +11,7 @@
               </svg>
             </div>
             <span class="text-xl font-bold bg-gradient-to-r from-sky-600 to-emerald-600 bg-clip-text text-transparent">
-              CareSync
+              MediSync
             </span>
           </div>
           <p class="text-gray-600 max-w-md text-sm leading-relaxed mb-4">
@@ -19,7 +19,7 @@
           </p>
           <div class="flex space-x-3">
             <a 
-              href="https://github.com/Deniz09OK/CareSync" 
+              href="https://github.com/Deniz09OK/MediSync" 
               target="_blank"
               rel="noopener noreferrer"
               class="w-10 h-10 rounded-full bg-white border border-sky-200 flex items-center justify-center text-sky-600 hover:bg-sky-50 hover:border-sky-300 transition-all"
